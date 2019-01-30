@@ -1,0 +1,6 @@
+C:\mywork\peacock\peacock\bin\Debug\peacock.exe
+C:\mywork\peacock\peacock\bin\Debug\peacock.pdb
+C:\mywork\peacock\peacock\obj\Debug\peacock.csprojAssemblyReference.cache
+C:\mywork\peacock\peacock\obj\Debug\peacock.csproj.CoreCompileInputs.cache
+C:\mywork\peacock\peacock\obj\Debug\peacock.exe
+C:\mywork\peacock\peacock\obj\Debug\peacock.pdb

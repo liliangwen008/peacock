@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peacock", "peacock\Peacock.csproj", "{850FB070-0C45-454B-BAF2-5A205BDB5ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyctrl-ocr", "Skyctrl-ocr\Skyctrl-ocr.csproj", "{C2EE8E78-36B3-44F1-B4A3-42F22911DB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyctrl-twain", "Skyctrl-twain\Skyctrl-twain.csproj", "{DEFAD75A-284F-4359-B716-B7913379C750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850FB070-0C45-454B-BAF2-5A205BDB5ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850FB070-0C45-454B-BAF2-5A205BDB5ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850FB070-0C45-454B-BAF2-5A205BDB5ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850FB070-0C45-454B-BAF2-5A205BDB5ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EE8E78-36B3-44F1-B4A3-42F22911DB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EE8E78-36B3-44F1-B4A3-42F22911DB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EE8E78-36B3-44F1-B4A3-42F22911DB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EE8E78-36B3-44F1-B4A3-42F22911DB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFAD75A-284F-4359-B716-B7913379C750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFAD75A-284F-4359-B716-B7913379C750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFAD75A-284F-4359-B716-B7913379C750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFAD75A-284F-4359-B716-B7913379C750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872258D7-9AD7-4CDE-A299-7E30ADDBEDE9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\mywork\peacock\baseocr\bin\Debug\Microsoft.Office.Interop.OneNote.dll
+C:\mywork\peacock\baseocr\obj\Debug\SkyctrlOCR.csprojAssemblyReference.cache
+C:\mywork\peacock\baseocr\obj\Debug\SkyctrlOCR.csproj.CoreCompileInputs.cache
+C:\mywork\peacock\baseocr\obj\Debug\SkyctrlOCR.csproj.CopyComplete
+C:\mywork\peacock\baseocr\bin\Debug\SkyctrlOCR.exe
+C:\mywork\peacock\baseocr\bin\Debug\SkyctrlOCR.pdb
+C:\mywork\peacock\baseocr\obj\Debug\SkyctrlOCR.exe
+C:\mywork\peacock\baseocr\obj\Debug\SkyctrlOCR.pdb

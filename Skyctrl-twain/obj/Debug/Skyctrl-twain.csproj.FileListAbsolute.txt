@@ -1,0 +1,5 @@
+C:\mywork\peacock\Skyctrl-twain\bin\Debug\Skyctrl-twain.exe
+C:\mywork\peacock\Skyctrl-twain\bin\Debug\Skyctrl-twain.pdb
+C:\mywork\peacock\Skyctrl-twain\obj\Debug\Skyctrl-twain.csproj.CoreCompileInputs.cache
+C:\mywork\peacock\Skyctrl-twain\obj\Debug\Skyctrl-twain.exe
+C:\mywork\peacock\Skyctrl-twain\obj\Debug\Skyctrl-twain.pdb

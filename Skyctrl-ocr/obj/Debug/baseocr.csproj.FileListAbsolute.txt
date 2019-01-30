@@ -1,0 +1,8 @@
+C:\mywork\peacock\baseocr\obj\Debug\baseocr.csprojAssemblyReference.cache
+C:\mywork\peacock\baseocr\obj\Debug\baseocr.csproj.CoreCompileInputs.cache
+C:\mywork\peacock\baseocr\bin\Debug\baseocr.exe
+C:\mywork\peacock\baseocr\bin\Debug\baseocr.pdb
+C:\mywork\peacock\baseocr\bin\Debug\Microsoft.Office.Interop.OneNote.dll
+C:\mywork\peacock\baseocr\obj\Debug\baseocr.csproj.CopyComplete
+C:\mywork\peacock\baseocr\obj\Debug\baseocr.exe
+C:\mywork\peacock\baseocr\obj\Debug\baseocr.pdb
